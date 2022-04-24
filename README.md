@@ -1,1 +1,1 @@
-# java_practice
+# KH 자바 과정 실습 코드 정리
